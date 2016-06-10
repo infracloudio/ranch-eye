@@ -1,5 +1,9 @@
 # Ranch-Eye
 
+## Modification Summary:
+
+Added ability to add the IP of Cadvisor dynamically - specially useful where host networking is not available
+
 ## Summary
 
 Simple haproxy (1.6) implementation for exposing rancher's implementation of cadvisor stats to an external endpoint.
